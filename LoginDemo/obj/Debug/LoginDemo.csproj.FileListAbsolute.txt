@@ -1,0 +1,11 @@
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\bin\LoginDemo.dll
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\bin\LoginDemo.pdb
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\obj\Debug\LoginDemo.dll
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csprojResolveAssemblyReference.cache
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\bin\EntityFramework.dll
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\bin\EntityFramework.SqlServer.dll
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\bin\MySql.Data.dll
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\bin\MySql.Data.Entity.EF6.dll
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\bin\EntityFramework.xml
+C:\GitHub\ASP.NET\LoginDemo\LoginDemo\bin\EntityFramework.SqlServer.xml
